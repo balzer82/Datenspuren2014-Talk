@@ -10,4 +10,13 @@ So wird es auch mit Gesundheitsdaten geschehen. Versicherer werden passgenaue Ta
 In diesem Talk möchte ich darüber sprechen, wie ein kleines Device die Aktivität überhaupt erkennt (Joggen, Laufen, Radfahren, ...) und wie diese Daten dann vermutlich genutzt werden, um Scores zu berechnen, welche einem einen günstigeren Versicherungstarif einbringen. 
 Bei KFZ Versicherungen schon längst State-of-the-Art, wird es bald auch bei Gesundheitsdaten darum gehen.
 
-Ein Aufruf zum Crowd-Re-Engineering der Bewertungsalgorithmen.
+## Video
+
+Auf [media.ccc.de](http://media.ccc.de/browse/conferences/datenspuren/2014/DS2014_-_5994_-_de_-_grosser_saal_-_201409131645_-_hack_the_gesundheits-_system_wenigstens_n_bisschen_-_paul.html#video) oder bei [vimeo.com](https://vimeo.com/106917154).
+
+## Slides
+
+[Download PDF](https://github.com/balzer82/Datenspuren2014-Talk/blob/master/Hack-the-GesundheitsSystem-Datenspuren-2014.pdf)
+
+
+Ein Aufruf zum Crowd-Re-Engineering der Bewertungsalgorithmen!

@@ -7,6 +7,9 @@ Hack the (Gesundheits-)System - wenigstens 'n bisschen
 
 So ziemlich jedes Startup, welches mit Millionenbeträgen finanziert wird, hat mindestens einen Joker im Portfolio, über den der Nutzer noch nicht so nachgedacht hat. Es gilt "If you are not payin' for it, you are the product beein' sold!".
 So wird es auch mit Gesundheitsdaten geschehen. Versicherer werden passgenaue Tarife anbieten, wenn man sich nur bereit erklärt, die Daten frei zu geben. 
+
+![Rabatt](https://raw.githubusercontent.com/balzer82/Datenspuren2014-Talk/master/krankenkassenbeitrag.gif)
+
 In diesem Talk möchte ich darüber sprechen, wie ein kleines Device die Aktivität überhaupt erkennt (Joggen, Laufen, Radfahren, ...) und wie diese Daten dann vermutlich genutzt werden, um Scores zu berechnen, welche einem einen günstigeren Versicherungstarif einbringen. 
 Bei KFZ Versicherungen schon längst State-of-the-Art, wird es bald auch bei Gesundheitsdaten darum gehen.
 
